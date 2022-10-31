@@ -95,6 +95,15 @@ def geheime_deuren():
     answer = input()
     if answer == ("deur1"):
         print("het is een sprookjesboom en je word gestuurd naar de goede kant van de wereld")
+        print(""" _-_
+    /~~   ~~\
+ /~~         ~~\
+{               }
+ \  _-     -_  /
+   ~  \\ //  ~
+_- -   | | _- _
+  _ -  | |   -_
+      // \\""")
         goed_einde()
     elif answer == ("deur2"):
         print("de leeuw ruikt verder en je word kwaad")
