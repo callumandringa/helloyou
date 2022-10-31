@@ -152,6 +152,89 @@ def dom_einde():
 
 begin()
 ```
+BZZZ BZZZ BZZZ BZZZ BZZZ de wekker gaat af
+je wordt wakker op een nieuwe dag"
+Je hebt 2 keuzes die je kan maken A Wakker worden of B door slapen
+A
+Je staat op en word wakker
+B	
+Je slaapt verder
+je begint te gapen omdat je moe bent je ogen vallen dicht maar je kan nog bewegen
+je wilt slapen en coffee maken maar je kan niet allebij doen wat ga je kiezen
+A coffee maken of B door slapen
+glub glub glub slik aahhhhhh i'm ready to go
+e zet een wekker en je slaapt
+zzz zzzz zzz 
+BZZZ BZZZ BZZZ BZZZ de wekker gaat af
+je wordt wakker
+A je wordt wakker B slaappilletjes nemen C door slapen en dromen
+A
+je wordt wakker
+B
+je neemt te veel pilletjes in en je kan niet meer wakker worden
+C
+je negeert de wekker en je valt in slaap en droomt
+je bent eindelijk klaar om naar school te gaan
+A je kan fietsen B je kan lopen C je kan gebracht worden want je moeder is thuis
+A
+je fietst naar school terwijl je fiets steek je ene weg over maar omdat je moe bent kijk je niet naar links en rechts je bent halverwege over de weg en dan komt er een vrachtwagen die je aanrijdt
+B
+loopt naar school maar je hebt de verkeerde afslag genomen en je bent beland in de bos
+je ziet een paar deuren en je staat voor ze allemaal
+C
+je moeder vind het goed idee omdat je nog moe bent
+je bent bijna klaar om naar school te gaan
+je moet alleen je elke dag pilletjes nemen en je bent op pad
+je loopt naar de badkamer maar de licht doet het niet je beweegt met je armen totdat je denkt je pilletjes te hebben gevonden
+A de linkerkant B de rechter kant"
+A
+je grijpt de pilletjes aan de linker kant en je neemt ze in
+je valt op de grond en slaapt
+B
+je grijpt de pilletjes van de rechter kanbt en je neemt ze in
+je zoekt de deur en je loopt naar buiten om te gaan lopen naar school
+je bent op de een of andere manier op school gekomen vanwege je moeder
+je moet op bezoek komen met je mentor
+A je kan kiezen voor een schorsing B 1 week niet op school hoeven te komen
+A
+je neemt de schorsing en je moeder vind het erg dom dat je die keuze hebt gemaakt
+Later op een dag pleeg je zelfmoord
+B
+je neemt 1 week geen school je moder vind het een verstandig keuze
+1 week later
+je ziet 3 deuren voor je neus staan
+deur 1 heeft een boom deur 2 heeft een leeuw deur 3 heeft een tovenaar
+waar ga je in deur1 deur2 of deur3
+deur1
+het is een sprookjesboom en je word gestuurd naar de goede kant van de wereld
+deur2
+de leeuw ruikt verder en je word kwaad
+deur3
+de tovenaar heeft een spreuk op je gegooit waarmee je slaapt
+je bent optijd op school de mentor vind het erg leuk dat je erbij bent vandaag
+je hebt nu mentor les hoe ga je dit voorbereriden
+A opletten in de les B huiswerk maken
+A
+je let op in de les
+B
+je maakt je huiswerk voor de volgende les
+na 1 week thuis zitten ben je eindelijk weer terug op school
+je hebt zometeen mentor les om je mentor te zien hoe ga je gedragen"
+A je gaat hem in elkaar slaan B je forgeeft de mentor en je word vrienden
+A
+je maakr de mentor dood
+B
+je frogeeft en je word vrienden met de mentor
+school is voorbij je fiets heeft een lekke band hoe gaan we naar school
+A lopen B moeder bellen om optehalen
+A
+je loopt naar hujius en je zet muziek op en je denkt wat een goede dag vandaag
+B
+je moeder neemt niet op en je word gekidnapped bij school
+je bent kwaad geworden
+je bent aan de goede kant gekomen gefeliciteerd
+.......
+je bent gewoon dom
 
 
 
